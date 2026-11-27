@@ -23,4 +23,4 @@ Each folder has its own README with results and notes. Every project has tests y
 2. Leakage is easy to cause and makes models look great. Keep every fitted step inside a `Pipeline`.
 3. Boosting is the safe default for tabular data, but on a small, mostly linear dataset a logistic regression beat it. Always keep a simple baseline in the comparison.
 
-Part of my [AI engineering roadmap](https://github.com/BDCALL/ai-engineering-roadmap).
+Part of my [AI engineering roadmap](https://github.com/Ho-Chai-Kwok/ai-engineering-roadmap).
